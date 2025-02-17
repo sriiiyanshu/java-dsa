@@ -1,0 +1,25 @@
+array1 print elements of array
+array2 remove even elements of an array
+array3 reverse an array
+array4 minimum value in array
+array5 second maximum elemet in array
+array6 move zeroes to end of an array
+array7 find missing number in an array
+string1 check word is palindrome or not
+sll1 create a singly linked list, print it and count number of nodes
+sll2 insertion of nodes at beginning, end and given position
+sll3 deletion of nodes at beginnning, end and given position
+sll4 search an element in singly linked list
+sll5 reverse a singly linked list
+sll6 find middle element in singly linked list
+sll7 find nth node from end of singly linked list
+sll8 remove dupliates from sorted linked list
+sll9 insert a node in sorted linked list
+sll10 delete a given key form singly linked list
+sll11 detect a loop in singly linked list and find start of loop
+sll12 remove a loop from singly linked list
+
+
+
+validParen check for valid parenthesis
+rotatedArraySearch binary search rotated array
