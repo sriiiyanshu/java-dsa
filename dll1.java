@@ -1,4 +1,4 @@
-//implement double linked list
+//implement double linked list and print in forward and backward directon
 public class dll1
 {
     private Node head;
